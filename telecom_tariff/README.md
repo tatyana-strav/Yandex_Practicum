@@ -21,10 +21,3 @@
 * *numpy*;
 * *scipy*;
 * *matplotlib*.
-
-
-
-
-```python
-
-```
