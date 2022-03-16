@@ -19,5 +19,5 @@
 
 * *pandas*;
 * *numpy*;
-* *matplotlib*.
+* *matplotlib*;
 * *scipy*.
